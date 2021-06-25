@@ -60,7 +60,7 @@ Specify what it takes to deploy your app.
 
 ## Introduction
 
-Here are the instructions for the React Coding Challenge. Please note that you have 5 days from the time of this email to complete and submit the challenge. Please ensure that you capture a screen recording with audio as you complete the challenge using programs such as Loom or other screen recording software. The recording should be at least full length of the challenge (1 hour and 15 mins). The recording must be on a streaming site - we cannot download large files. The video must include audio of you explaining what you are doing. We will review the recording to grade the challenge.
+Here are the instructions for the Ember Coding Challenge. Please note that you have 5 days from the time of this email to complete and submit the challenge. Please ensure that you capture a screen recording with audio as you complete the challenge using programs such as Loom or other screen recording software. The recording should be at least full length of the challenge (1 hour and 15 mins). The recording must be on a streaming site - we cannot download large files. The video must include audio of you explaining what you are doing. We will review the recording to grade the challenge.
 
 Here are the links you will need for the challenge:
 [Figma Link](https://www.figma.com/proto/CCuZ0sjGQ2CQtKvuENHaF8/React-Hiring-Test?node-id=11%3A26922&scaling=min-zoom)
